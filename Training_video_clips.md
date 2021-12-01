@@ -31,5 +31,6 @@ https://www.loom.com/share/88c7f0f5d77945beae300d38f1ccbcda
 11. 모델 스코어링
 https://www.loom.com/share/267dc9915fbb4cc68a8ef2f6c086bbc0
 
-12. 
+12. kaggle 제출용 데이터 처리
+https://www.loom.com/share/c5621d9fdb714c5fbf3b541bcb5a478b
 
