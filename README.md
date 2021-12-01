@@ -18,3 +18,11 @@ https://www.loom.com/share/ba3477a0f37f49d689701d2ebb4571ce
 
 7. 데이터셋 나누기
 https://www.loom.com/share/24713f4c02a4425895a888bca04d8e8b
+
+8. 모델 개발
+https://www.loom.com/share/21b574208787402dae0bbc46c12b776e
+
+9. 모델 설명 (Explainable AI)
+https://www.loom.com/share/fb4cb46b5b1e409094e9a790181c6ad2
+
+10.
